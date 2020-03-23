@@ -10,6 +10,18 @@ namespace EmployeeList.Entities
         public int Hours { get; set; }
         public double ValuePerHour { get; set; }
 
+        //constructors
+        public Employee() { 
+        
+        }
+
+        public Employee(string name, int hours, double valuerPerHour)
+        {
+            Name = name;        
+            Hours = hours;
+            ValuePerHour = valuerPerHour;
+        }
+
         public virtual double Payment()
         {
             return Hours * ValuePerHour;
@@ -18,3 +30,4 @@ namespace EmployeeList.Entities
 
     }
 }
+    

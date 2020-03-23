@@ -6,7 +6,17 @@ namespace EmployeeList.Entities
 {
     class OutsourceEployee : Employee
     {
-        public double AdditionalCharge;
+        public double AdditionalCharge{get; set;}
+
+        //constructors
+        public OutsourceEployee()
+        {
+
+        }
+        public OutsourceEployee(string name, int hours, double valuerPerHour, double additionalCharge) : base(name, hours, valuerPerHour)
+        {
+            AdditionalCharge = additionalCharge;
+        }
 
 
         public override double Payment()

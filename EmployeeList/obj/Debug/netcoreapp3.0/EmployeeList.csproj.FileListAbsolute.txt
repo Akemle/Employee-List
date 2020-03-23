@@ -1,0 +1,11 @@
+D:\Estudos\mobile\C#\projects\EmployeeList\Employee-List\EmployeeList\bin\Debug\netcoreapp3.0\EmployeeList.exe
+D:\Estudos\mobile\C#\projects\EmployeeList\Employee-List\EmployeeList\bin\Debug\netcoreapp3.0\EmployeeList.deps.json
+D:\Estudos\mobile\C#\projects\EmployeeList\Employee-List\EmployeeList\bin\Debug\netcoreapp3.0\EmployeeList.runtimeconfig.json
+D:\Estudos\mobile\C#\projects\EmployeeList\Employee-List\EmployeeList\bin\Debug\netcoreapp3.0\EmployeeList.runtimeconfig.dev.json
+D:\Estudos\mobile\C#\projects\EmployeeList\Employee-List\EmployeeList\bin\Debug\netcoreapp3.0\EmployeeList.dll
+D:\Estudos\mobile\C#\projects\EmployeeList\Employee-List\EmployeeList\bin\Debug\netcoreapp3.0\EmployeeList.pdb
+D:\Estudos\mobile\C#\projects\EmployeeList\Employee-List\EmployeeList\obj\Debug\netcoreapp3.0\EmployeeList.csprojAssemblyReference.cache
+D:\Estudos\mobile\C#\projects\EmployeeList\Employee-List\EmployeeList\obj\Debug\netcoreapp3.0\EmployeeList.AssemblyInfoInputs.cache
+D:\Estudos\mobile\C#\projects\EmployeeList\Employee-List\EmployeeList\obj\Debug\netcoreapp3.0\EmployeeList.AssemblyInfo.cs
+D:\Estudos\mobile\C#\projects\EmployeeList\Employee-List\EmployeeList\obj\Debug\netcoreapp3.0\EmployeeList.dll
+D:\Estudos\mobile\C#\projects\EmployeeList\Employee-List\EmployeeList\obj\Debug\netcoreapp3.0\EmployeeList.pdb
